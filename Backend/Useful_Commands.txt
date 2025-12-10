@@ -1,0 +1,4 @@
+THE PURPOSE OF THIS DOC IS TO COPY AND PASTE SOME USEFUL COMMANDS INTO THE TERMINAL
+
+.\venv\Scripts\Activate.ps1 <- Activates virtual environment
+uvicorn Backend.main:app --reload <- Run backend script
